@@ -5,8 +5,7 @@
 <script id="preference-center" src="https://solgroup--devpwcgb.sandbox.my.salesforce.com/prefcenter/preference-center-1.1.0/js/main.js" 
   pref-center-host="https://solgroup--devpwcgb.sandbox.my.salesforce.com"
   pref-center-name="DIGITAL_MARKETING"
-  pref-center-param="QTBEMDAwMDAwOTFCeUNFVXBlOTd3dXlGVGg5OGRKRS9yV0trNUZUMFc5REZDSzk3REs2NTQ4MWhxVzhSNDkyS3ArZ25ZSEJpN0cwdEFncmVMMEEzazJWSjhBdDZwRisxVFZnaU4zSXlwMWdOQzRvOGdhYjIvdGl4V2tsSWt4VkVLbGdqMHU1K0RpT21o
-"></script>
+  pref-center-param="pctoken"></script>
   
   </html>
   
